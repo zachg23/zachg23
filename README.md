@@ -1,14 +1,23 @@
 <h1>Hi, I'm Zach! <br/>Passionate Cybersecurity Analyst</h1>
 
-<h2>👨🏻‍💻 My Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/zachg23/Azure-SOC)
+ 
+- <b>Azure/Cloud Projects</b>
+  - [Implementing the vulnerability management lifecycle with Tenable](https://github.com/zachg23/Win10_Vulnerability_Management
+)
+ 
+- <b>Azure/Cloud Projects</b>
+  - [Conducting a threat hunt using MDE](https://github.com/zachg23/Threat-Hunting-Scenario-Tor)
+
+
 
 
 <h2> 📇 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ZacharyGirrens | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/zacharygirrens
