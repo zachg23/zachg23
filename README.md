@@ -5,11 +5,9 @@
 - <b>Azure/Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/zachg23/Azure-SOC)
  
-- <b>Azure/Cloud Projects</b>
-  - [Implementing the vulnerability management lifecycle with Tenable](https://github.com/zachg23/Win10_Vulnerability_Management
+  - [Implementing vulnerability management with Tenable](https://github.com/zachg23/Win10_Vulnerability_Management
 )
  
-- <b>Azure/Cloud Projects</b>
   - [Conducting a threat hunt using MDE](https://github.com/zachg23/Threat-Hunting-Scenario-Tor)
 
 
