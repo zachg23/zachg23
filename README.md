@@ -7,7 +7,9 @@
  
   - [Implementing vulnerability management with Tenable](https://github.com/zachg23/Win10_Vulnerability_Management
 )
- 
+
+  - [Vulnerability management program implementation](https://github.com/zachg23/Vulnerability-Management-Program-Implementation)
+
   - [Conducting a threat hunt using MDE](https://github.com/zachg23/Threat-Hunting-Scenario-Tor)
 
 
