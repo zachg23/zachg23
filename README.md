@@ -7,7 +7,7 @@
 
 - <b>Vulnerability Management</b>
 
-  - [Implementing vulnerability management with Tenable](https://github.com/zachg23/Win10_Vulnerability_Management
+  - [Vulnerability management using Tenable](https://github.com/zachg23/Win10_Vulnerability_Management
 )
 
   - [Vulnerability management program implementation](https://github.com/zachg23/Vulnerability-Management-Program-Implementation)
