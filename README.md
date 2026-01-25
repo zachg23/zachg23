@@ -7,10 +7,10 @@
 
 - <b>Vulnerability Management</b>
 
+  - [Vulnerability management program implementation](https://github.com/zachg23/Vulnerability-Management-Program-Implementation)
+
   - [Vulnerability management using Tenable](https://github.com/zachg23/Win10_Vulnerability_Management
 )
-
-  - [Vulnerability management program implementation](https://github.com/zachg23/Vulnerability-Management-Program-Implementation)
 
 - <b>Threat Hunting</b>
 
